@@ -1,0 +1,23 @@
+
+.tb_diretoria_principal th {
+
+  padding: 0 20px;
+
+
+
+}
+
+.tb_diretoria_principal  td {
+  padding: 0 20px;
+  text-align: center;
+}
+
+
+.tb_diretoria_secundaria th {
+  padding: 0 20px 0 0;
+}
+
+.tb_diretoria_secundaria td {
+  padding: 0 20px 0 0;
+  text-align: center;
+}
